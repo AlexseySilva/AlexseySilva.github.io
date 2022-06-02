@@ -1,10 +1,10 @@
 <div background-color: red;>
-<h1 align="center">Hi 👋, I'm Alexsey Batista</h1>
+<h1 align="center">Hi, I'm Alexsey Batista</h1>
 <h3 align="center">👀 I’m interested in Learn 🧑‍💻...ia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexseysilva&label=Profile%20views&color=0e75b6&style=flat" alt="alexseysilva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexseysilva" alt="alexseysilva" /></a> </p>
+<p align="left" background-color: black;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexseysilva" alt="alexseysilva" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Alexsey873" target="blank"><img src="https://img.shields.io/twitter/follow/alexseysilva?logo=twitter&style=for-the-badge" alt="Alexsey87" /></a> </p>
 
