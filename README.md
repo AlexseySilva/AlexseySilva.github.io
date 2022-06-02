@@ -1,3 +1,4 @@
+<div background-color: red;>
 <h1 align="center">Hi 👋, I'm Alexsey Batista</h1>
 <h3 align="center">👀 I’m interested in Learn 🧑‍💻...ia</h3>
 
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexseysilva&show_icons=true&locale=en" alt="alexseysilva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexseysilva&" alt="alexseysilva" /></p>
+</div>
