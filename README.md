@@ -24,3 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexseysilva&" alt="alexseysilva" /></p>
 
+
+
+
+<P>Teste do discord</p>
+<a href="https://discord.gg/mSDykzG" target="blank"><img src="https://imgs.search.brave.com/Sqrs2K3jSfo0kl_ND-m2xMuW20uAc0OYwiSs_CJM2Ks/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L2NhcnRvb25zbWFy/dHN0cmVhbWluZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOC8w/My8wODEyNTcxMS9E/aXNjb3JkLUljb24u/anBn" alt="Alexsey87"></a>
