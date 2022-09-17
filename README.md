@@ -1,6 +1,3 @@
-<head>
-  <meta charset="utf-8"> 
-  <title>Alexsey</title>   </head>
 <h1><strong>Alexsey Batista Da Silva</strong></h1>
 
 <p>Pai amante de  programação </p>
