@@ -15,7 +15,10 @@
 
 
 
-
+</br>
+</br>
+</br>
+</br>
 <footer>
 <p>Aqui você vai para o meu <a href="https://www.instagram.com/alexsey.batista/"><strong>Instagram</strong></a> onde posto um pouco do meu dia a dia</p>
 
