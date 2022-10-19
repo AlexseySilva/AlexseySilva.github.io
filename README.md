@@ -1,7 +1,7 @@
 <html>
     <title>Alexsey.Batista</title>
     
-    <link rel="stylesheet" href="resetcss.css">
+<link rel="stylesheet" href="resetcss.css">
 
 <body>
 
