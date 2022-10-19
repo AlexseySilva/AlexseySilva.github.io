@@ -1,11 +1,10 @@
 <html>
-    <title>Alexsey.Batista</title>
-    
+<title>Alexsey.Batista</title>
 <link rel="stylesheet" href="resetcss.css">
-
 <body>
 
 <h1><strong>Alexsey Batista Da Silva</strong></h1>
+
 
 <p>Pai, amante de programação e jogador de jogos onlie </p>
 
