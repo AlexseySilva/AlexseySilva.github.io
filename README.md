@@ -7,7 +7,7 @@
 <h1><strong>Alexsey Batista Da Silva</strong></h1>
 
 
-<p class: primeiroParagrafro>Pai, amante de programação e jogador de jogos onlie </p>
+<p class:a;> Pai, amante de programação e jogador de jogos onlie </p>
 
 
 <h2>Heading level 2</h2>
