@@ -25,6 +25,9 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background-image: url(img/IMG_20220818_165153_057.webp);
+	align-items: center;
+	background-repeat: no-repeat;
 }
 ol, ul {
 	list-style: none;
