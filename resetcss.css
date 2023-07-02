@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body    {
+	size: 70vh;
 	line-height: 1;
 	background-image: url(img/IMG_20220818_165153_057.webp);
 	align-items: center;
