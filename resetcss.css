@@ -58,7 +58,8 @@ table   {
 
 h1  {
     text-align: center;
-    color:white
+    color:white;
+	border-bottom: 0px;
 }
 
 p #a {
