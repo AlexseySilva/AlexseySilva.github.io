@@ -1,11 +1,43 @@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alexsey Batista</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
         h1 {
             color: pink;
+        }
+
+        .textos {
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            margin-top: 40px;
+        }
+
+        #meusLinks1, #meusLinks2 {
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 24px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 20px;
+            }
         }
     </style>
 </head>
