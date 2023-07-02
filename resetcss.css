@@ -55,7 +55,7 @@ table   {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-#h1 #ola{
+h1 #ola{
 	color: blueviolet;
 }
 
@@ -64,10 +64,10 @@ h1  {
     color:white;
 	border-bottom: 0px;
 }
-#p #textos{
+p #textos{
 	color: blue;
 }
-#p #a {
+p #a {
     /*Aqui é o primeiro paragrafo*/
     text-align: center;
     color:blue;
@@ -77,22 +77,18 @@ h2 {
     text-align: center;
     color:white
 }
-#footer{
+footer{
 	margin-bottom: 0px;
 	
 }
 
-#p #meusLinks1 {
+p #meusLinks1 {
     text-align: center;
     color: blue;
     
 }
-#p #meusLinks2 {
+p #meusLinks2 {
     text-align: center;
     color: white;
     
-}
-
-#meusLinks{
-	color: blueviolet;
 }
