@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body    {
+	display: flex;
 	min-height: 100%;
 	line-height: 1;
 	background-image: url(img/IMG_20220818_165153_057.webp);
@@ -70,16 +71,22 @@ h2 {
     text-align: center;
     color:white
 }
-
-p #meusLinks {
-    text-align: center;
-    color: white;
-    
-}
 footer{
 	margin-bottom: 0px;
 	
 }
+
+p #meusLinks1 {
+    text-align: center;
+    color: white;
+    
+}
+p #meusLinks2 {
+    text-align: center;
+    color: white;
+    
+}
+
 #meusLinks{
 	color: blueviolet;
 }
