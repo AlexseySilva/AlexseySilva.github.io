@@ -1,56 +1,10 @@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alexsey Batista</title>
-    <style>
-        html {
-            height: 100%;
-        }
-
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-image: url("https://raw.githubusercontent.com/AlexseySilva/AlexseySilva.github.io/main/img/IMG_20220818_165153_057.jpg");
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-        }
-
-        h1 {
-            color: pink;
-        }
-
-        .textos {
-            line-height: 1.5;
-            margin-bottom: 20px;
-        }
-
-        footer {
-            margin-top: auto;
-        }
-
-        #meusLinks1,
-        #meusLinks2 {
-            margin-bottom: 10px;
-        }
-
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 24px;
-            }
-        }
-
-        @media (max-width: 480px) {
-            h1 {
-                font-size: 20px;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Olá, seja bem-vindo ao meu site!</h1>
