@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alexsey Batista</title>
     <style>
+        html {
+            height: 100%;
+        }
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -13,6 +17,9 @@
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
         }
 
         h1 {
@@ -25,7 +32,7 @@
         }
 
         footer {
-            margin-top: 40px;
+            margin-top: auto;
         }
 
         #meusLinks1,
