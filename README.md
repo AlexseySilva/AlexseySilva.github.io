@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url("https://raw.githubusercontent.com/AlexseySilva/AlexseySilva.github.io/main/img/IMG_20220818_165153_057.jpg");
+            background-image: url("https://github.com/AlexseySilva/AlexseySilva.github.io/blob/main/img/IMG_20220818_165153_057.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
