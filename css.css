@@ -24,6 +24,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+	display: flex;
 	line-height: 1;
 	background-image: url(img/IMG_20220818_165153_057.webp);
 	align-items: center;
