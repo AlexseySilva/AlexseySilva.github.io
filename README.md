@@ -3,8 +3,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alexsey Batista</title>
-    <link rel="stylesheet" href="resetcs.css">
+    
 </head>
+<link rel="stylesheet" href="resetcs.css">
     <body>
         <h1 id="Ola">Olá, bem vindo ao meu site!</h1>
         <p class="textos">Meu nome é <strong>Alexsey</strong>, Estudante de programação, Focado em <strong>Front-End</strong></p>
