@@ -61,7 +61,9 @@ h1  {
     color:white;
 	border-bottom: 0px;
 }
-
+p{
+	color: blue;
+}
 p #a {
     /*Aqui é o primeiro paragrafo*/
     text-align: center;
