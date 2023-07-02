@@ -1,24 +1,24 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url("img/IMG_20220818_165153_057.jpg");
+    background-image: url("https://raw.githubusercontent.com/AlexseySilva/AlexseySilva.github.io/main/img/IMG_20220818_165153_057.webp");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
     margin: 0;
     padding: 0;
 }
-
-
-
 
 .container {
     padding: 20px;
     max-width: 800px;
     margin: 0 auto;
-    background-color: rgba(255, 255, 255, 0.226);
+    background-color: rgba(255, 255, 255, 0.212);
 }
 
 h1 {
-    color: rgb(9, 62, 235);
+    color: rgb(63, 24, 236);
     font-size: 24px;
 }
 
@@ -29,8 +29,8 @@ h1 {
 }
 
 footer {
-    margin-top: 390px;
+    margin-top: 30px;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.295);
+    background-color: rgba(255, 255, 255, 0.233);
     padding: 10px;
 }
