@@ -1,20 +1,34 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-image: url("https://raw.githubusercontent.com/AlexseySilva/AlexseySilva.github.io/main/img/IMG_20220818_165153_057.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     margin: 0;
+    padding: 0;
+}
+
+.container {
     padding: 20px;
-    background-image: url(img/IMG_20220818_165153_057.jpg);
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 h1 {
     color: pink;
+    font-size: 24px;
 }
 
-p {
+.textos {
+    line-height: 1.5;
     margin-bottom: 15px;
+    font-size: 16px;
 }
 
 footer {
     margin-top: 30px;
     text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
 }
