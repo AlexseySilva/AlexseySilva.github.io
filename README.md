@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -8,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url("https://github.com/AlexseySilva/AlexseySilva.github.io/blob/main/img/IMG_20220818_165153_057.jpg");
+            background-image: url("https://raw.githubusercontent.com/AlexseySilva/AlexseySilva.github.io/main/img/IMG_20220818_165153_057.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -46,14 +47,14 @@
     </style>
 </head>
 <body>
-    <h1>Olá, bem-vindo ao meu site!</h1>
-    <p class="textos">Meu nome é <strong>Alexsey</strong>, estudante de programação, focado em <strong>Front-End</strong>.</p>
-    <p class="textos">Pai de 3 meninas lindas, amante de programação, ciência espacial <strong>(Sim, foguete tem ré)</strong> e jogador de jogos online.</p>
-    <p class="textos">Na minha infância, eu gostava muito de entender como tudo funcionava. Desmontava todo tipo de eletrônico possível e, como sempre, não conseguia montá-los de volta kkkk.</p>
-    <p class="textos">Por algum motivo, perdi a motivação dessa vontade de entender tudo e me perdi em um limbo da vida sem querer entender as coisas.</p>
+    <h1>Olá, seja bem-vindo ao meu site!</h1>
+    <p class="textos">Meu nome é <strong>Alexsey</strong> e sou um estudante de programação, com foco em <strong>Front-End</strong>.</p>
+    <p class="textos">Sou pai de três meninas lindas, apaixonado por programação, ciência espacial <strong>(Sim, foguete tem ré)</strong> e jogador de jogos online.</p>
+    <p class="textos">Desde a minha infância, sempre tive muita curiosidade em entender como as coisas funcionam. Desmontava todo tipo de eletrônico possível, mas nem sempre conseguia montá-los novamente, kkkk.</p>
+    <p class="textos">Em algum momento, acabei perdendo um pouco dessa motivação em querer entender tudo e me vi em um limbo da vida, sem vontade de compreender as coisas como antes.</p>
     <footer>
-        <p id="meusLinks1">Aqui você vai para o meu <a href="https://www.instagram.com/alexsey.batista/" target="_blank"><strong>Instagram</strong></a>, onde posto um pouco do meu dia a dia.</p>
-        <p id="meusLinks2">Aqui você vai para o meu <a href="https://github.com/AlexseySilva" target="_blank"><strong>Meu GitHub</strong></a>, onde posto minhas ideias e códigos.</p>
+        <p id="meusLinks1">Aqui você encontra o meu <a href="https://www.instagram.com/alexsey.batista/" target="_blank"><strong>Instagram</strong></a>, onde compartilho um pouco do meu dia a dia.</p>
+        <p id="meusLinks2">Aqui você encontra o meu <a href="https://github.com/AlexseySilva" target="_blank"><strong>GitHub</strong></a>, onde compartilho minhas ideias e códigos.</p>
     </footer>
 </body>
 </html>
