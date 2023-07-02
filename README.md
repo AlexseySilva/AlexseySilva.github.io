@@ -2,6 +2,7 @@
     <title>Alexsey Batista</title>
 
 <link rel="stylesheet" href="resetcss.css">
+<link rel="img>
 <body>
 
 <h1><strong>Alexsey Batista Da Silva</strong></h1>
