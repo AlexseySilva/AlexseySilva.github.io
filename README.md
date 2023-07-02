@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url("https://raw.githubusercontent.com/AlexseySilva/AlexseySilva.github.io/main/img/IMG_20220818_165153_057.webp");
+            background-image: url("https://raw.githubusercontent.com/AlexseySilva/AlexseySilva.github.io/main/img/IMG_20220818_165153_057.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -28,7 +28,8 @@
             margin-top: 40px;
         }
 
-        #meusLinks1, #meusLinks2 {
+        #meusLinks1,
+        #meusLinks2 {
             margin-bottom: 10px;
         }
 
