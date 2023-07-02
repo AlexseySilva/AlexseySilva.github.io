@@ -2,7 +2,7 @@
     <title>Alexsey Batista</title>
 <link rel="stylesheet" href="resetcss.css">
 <body>
-<h1><strong>Alexsey Batista Da Silva</strong></h1>
+
 <p id="a"> Pai, amante de programação e jogador de jogos onlie </p>
 <h2>Heading level 2</h2>
 <footer>
