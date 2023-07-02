@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css.css">
 </head>
     <body>
-        <h1>Olá, bem vindo ao meu site!</h1>
+        <h1 color:blue;>Olá, bem vindo ao meu site!</h1>
         <p id="textos">Meu nome é <strong>Alexsey</strong>, Estudante de programação, Focado em <strong>Front-End</strong></p>
         <p id="textos"> Pai de 3 meninas lindas, amante de programação, ciencia espacial <strong>(Sim foguete tem ré)</strong> e jogador de jogos onlie </p>
         <p id="textos">Na minha infancia eu gostava muito de entender como tudo funcionava, Desmontava todo tipo de eletronico possivel e como sempre não conseguia montar eles de volta kkkk</p>
